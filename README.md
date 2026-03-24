@@ -5,15 +5,15 @@
 
 **4TaStiC**: Time and trend traveling time series clustering by Preedasawakul and Wiroonsri (2026).
 
-The package is designed for clustering and visualization of time series, especially when similar trajectories may occur with delays or slight trend changes.
+The package is designed for clustering time-series data and visualizing the results, especially when similar trajectories occur with delays or slight trend differences.
 
 
-The **4TaStiC** dissimilarity addresses this by combining:
+The **4TaStiC** dissimilarity addresses these complications by combining:
 
-- a **correlation-based dissimilarity** for measuring similarity in shape, and
+- a **correlation-based dissimilarity** for measuring similarity in patterns, and
 - a **weighted Euclidean distance** for measuring magnitude differences,
 
-while allowing candidate alignments through time shifts and trend tilts.
+while finding the best-matched pairwise time shifts and tilting angles.
 
 ## Main features
 
@@ -28,7 +28,7 @@ The package includes functions for:
 
 ## Installation
 
-You can install the development version from GitHub using:
+This package can be installed directly through RStudio or other editors by
 
 ```r
 # install.packages("remotes")
