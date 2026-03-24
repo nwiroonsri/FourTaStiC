@@ -3,7 +3,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-**4TaStiC**: Time and trend traveling time series clusterings.
+**4TaStiC**: Time and trend traveling time series clustering by Preedasawakul and Wiroonsri (2026).
 
 The package is designed for clustering and visualization of time series, especially when similar trajectories may occur with delays or slight trend changes.
 
@@ -34,6 +34,9 @@ You can install the development version from GitHub using:
 # install.packages("remotes")
 remotes::install_github("O-PREEDASAWAKUL/FourTaStiC")
 ```
+
+## References
+Preedasawakul, O., and Wiroonsri, N., 4TaStiC: Time and trend traveling time series clustering for classifying long-term type 2 diabetes patients, <i>ACM Transactions on Computing for Healthcare</i>, 2026.
 
 ## License
 
