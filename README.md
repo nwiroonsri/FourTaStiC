@@ -32,7 +32,7 @@ This package can be installed directly through RStudio or other editors by
 
 ```r
 # install.packages("remotes")
-remotes::install_github("O-PREEDASAWAKUL/FourTaStiC")
+remotes::install_github("nwiroonsri/FourTaStiC")
 ```
 
 ## References
