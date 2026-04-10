@@ -38,6 +38,9 @@ remotes::install_github("nwiroonsri/FourTaStiC")
 ## References
 Preedasawakul, O., and Wiroonsri, N., 4TaStiC: Time and trend traveling time series clustering for classifying long-term type 2 diabetes patients, <i>ACM Transactions on Computing for Healthcare</i>, 2026. (https://dl.acm.org/doi/10.1145/3802823)
 
+## Funding
+This research project was supported by King Mongkut's University of Technology Thonburi: KMUTT Partnering Initiative Grant, fiscal year 2024 under KIRIM number 28105.
+
 ## License
 
 The FourTaStiC package as a whole is distributed under [GPL(>=3)](https://www.gnu.org/licenses/gpl-3.0.en.html).
