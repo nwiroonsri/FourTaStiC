@@ -1,11 +1,12 @@
+<p align="center">
+  <img src="man/figures/4tastic-logo.png" width="200" />
+</p>
+
 # FourTaStiC (R package)
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-<p align="center">
-  <img src="man/figures/4tastic-logo.png" width="200" />
-</p>
 
 **4TaStiC**: Time and trend traveling time series clustering by Preedasawakul and Wiroonsri (2026).
 
