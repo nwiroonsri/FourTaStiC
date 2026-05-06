@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="man/figures/4tastic-logo.png" width="200" />
+  <img src="4tastic-logo.png" width="200" />
 </p>
 
 # FourTaStiC (R package)
